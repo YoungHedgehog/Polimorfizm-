@@ -1,0 +1,10 @@
+polimorfizm cw1-
+1. Stworzyæ dowoln¹ abstakcyjn¹ i 3 klasy po nije dziedzicz¹ce. Utworzyæ listê 6 obiektów w typie abstrakcyjnym
+2. Stworzyæ 2 interfejsy i 2 klasy implementuj¹ce po 1 z nich oraz 2 klasy implementuj¹ce oba z nich. Stworzyæ dwie listy - 3 obiekty z jednego i 3 z drugiego interfejsu
+3. Napuisz klase liczba posiadajaca publiczne wirtualne metody wczytaj i wypisz. Napisz klasy nint i ndouble dziedicz¹ce publicznie po klasie liczba i posiadaj¹ce publiczne p[ola wartoœæ odpowiednio typu int  i double. Perzecia dla klas nint i ndobule metody wczytaj i wypisz odpowiednio wczytujac ze standarowego wejscia i wypisujaca na standardowym wyjsciu zawartosc pola wartosc. Przetestuje program.
+4.
+Napisz klase towar posiadajaca publiczne pla nazwa, cena oraz ilosc i wirtualna metode opis wyswietlajaca na standarowym wyjsciu wszystkie infroamcje przechowywane w obiekcie. Napisz nastêpuj¹ce klasy pochodne klasy towar z zadania:
+a) gwozdzie posiadajace dodatkowe publiczne pola dlugosc, grubosc i rodzaj_lepka
+b) papier_scierny posiadajace dodatkowe publiczne pola ziarnistosc i szeerokosc
+c) meble posiadaj¹ce dodatkowe pola kolekcja.
+Wszystkie klasy pochodne klasy towar powinny miec metode opis przeciazon a w taki sposob, zeby wykorzystac oryginalny kod tej metody. Przetestuj program.
